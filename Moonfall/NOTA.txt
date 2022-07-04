@@ -1,0 +1,33 @@
+
+
+
+
+
+<iframe id=”ls_embed_1552823455″ src=”https://livestream.com/accounts/440454/events/8595200/player?width=960&amp;height=540&amp;enableInfoAndActivity=false&amp;defaultDrawer=&amp;autoPlay=true&amp;mute=false” width=”100%” height=”540″ frameborder=”0″ scrolling=”no” allowfullscreen=”allowfullscreen”> </iframe><script type=”text/javascript” data-embed_id=”ls_embed_1552823455″ src=”https://livestream.com/assets/plugins/referrer_tracking.js”></script>
+
+
+
+SPANISH ONLY
+<iframe id=”ls_embed_1553624261″ src=”https://livestream.com/accounts/440454/events/8613017/player?width=640&height=360&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false” width=”100%” height=”360″ frameborder=”0″ scrolling=”no” allowfullscreen> </iframe><script type=”text/javascript” data-embed_id=”ls_embed_1553624261″ src=”https://livestream.com/assets/plugins/referrer_tracking.js”></script>
+
+
+
+src=".mp4" onload="$('.iframe-loading').css('background-image', 'none');" width="360px" height="250px" sandbox="allow-same-origin allow-scripts"
+
+
+
+fa-file-download
+
+
+
+
+
+
+
+
+
+
+
+
+
+

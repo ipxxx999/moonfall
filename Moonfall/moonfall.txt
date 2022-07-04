@@ -1,0 +1,407 @@
+*************************************************************
+*/*    Security Robots Spam Scanners Defensa cibernética   */*
+*/*    SCRIPT: ANTI-ROBOTS detener y remediar rápidamente  */*
+*/*                                                        */*
+*/*              🚣🏾 ANTI-ESCANEO POR INTERNET 🚣🏾           */*
+*/************************************************************
+*/*                                                        */*
+*/*          (_)                    | | (_)                */*
+*/*           _ _ __   ___ ___ _ __ | |_ _  ___  _ __      */*
+*/*          | | '_ \ / __/ _ \ '_ \| __| |/ _ \| '_ \     */*
+*/*          | | | | | (_|  __/ |_) | |_| | (_) | | | |    */*
+*/*          |_|_| |_|\___\___| .__/ \__|_|\___/|_| |_|    */*
+*/*                           | |                          */*
+*/*                           |_|                          */*
+*/************************************************************
+IP Address Local: 186.177.161.10
+ISP Web: 24.105.75.211
+Hos Local: 186.177.161.10
+Date: 24/04/2022 04:22:02
+Port Number: 61144
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 89.7.145.234
+ISP Web: 24.105.75.211
+Hos Local: static-234-145-7-89.ipcom.comunitel.net
+Date: 24/04/2022 04:56:56
+Port Number: 56206
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9,ca-ES;q=0.8,ca;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: Estuardo Amigo 190.106.221.58
+ISP Web: 24.105.75.211
+Hos Local: 190.106.221.58
+Date: 24/04/2022 10:55:48
+Port Number: 31364
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es-GT;q=0.9,es;q=0.8,en;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 9; ANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 89.7.145.234
+ISP Web: 24.105.75.211
+Hos Local: static-234-145-7-89.ipcom.comunitel.net
+Date: 24/04/2022 11:37:39
+Port Number: 41718
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9,ca-ES;q=0.8,ca;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 10; Mi MIX 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 190.106.221.58
+ISP Web: 
+Hos Local: 190.106.221.58
+Date: 24/04/2022 11:55:54
+Port Number: 46444
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es-GT;q=0.9,es;q=0.8,en;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 9; ANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 186.96.85.52
+ISP Web: 24.105.75.211
+Hos Local: 186.96.85.52
+Date: 24/04/2022 15:15:32
+Port Number: 51065
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11; moto e20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 172.56.16.125
+ISP Web: 
+Hos Local: 172.56.16.125
+Date: 24/04/2022 15:23:13
+Port Number: 56667
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 12; SM-G781U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 172.56.16.125
+ISP Web: 24.105.75.211
+Hos Local: 172.56.16.125
+Date: 24/04/2022 15:39:58
+Port Number: 55689
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 12; SM-G781U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 177.247.120.83
+ISP Web: 
+Hos Local: customer-TOLU-CGN-120-83.megared.net.mx
+Date: 25/04/2022 02:11:08
+Port Number: 57018
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es;q=0.9,en-US;q=0.8,en;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile DuckDuckGo/5 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 177.247.120.83
+ISP Web: 
+Hos Local: customer-TOLU-CGN-120-83.megared.net.mx
+Date: 25/04/2022 02:11:28
+Port Number: 22985
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es;q=0.9,en-US;q=0.8,en;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile DuckDuckGo/5 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 177.247.120.83
+ISP Web: 24.105.75.211
+Hos Local: customer-TOLU-CGN-120-83.megared.net.mx
+Date: 25/04/2022 02:13:36
+Port Number: 22878
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es;q=0.9,en-US;q=0.8,en;q=0.7
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile DuckDuckGo/5 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+
+IP Address Local: 192.168.1.10
+ISP Web: 24.105.75.211
+Hos Local: DESKTOP-H31O1NQ
+Date: 30/04/2022 01:27:31
+Port Number: 62247
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 24.105.75.211
+ISP Web: 
+Hos Local: 24.105.75.211
+Date: 30/04/2022 01:27:55
+Port Number: 64585
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 201.235.96.216
+ISP Web: 24.105.75.211
+Hos Local: 216-96-235-201.fibertel.com.ar
+Date: 30/04/2022 01:29:17
+Port Number: 30114
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-AR,es-419;q=0.9,es;q=0.8,pt;q=0.7,en;q=0.6
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 201.235.96.216
+ISP Web: 
+Hos Local: 216-96-235-201.fibertel.com.ar
+Date: 30/04/2022 01:30:08
+Port Number: 30201
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-AR,es-419;q=0.9,es;q=0.8,pt;q=0.7,en;q=0.6
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.181.222
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-181-222.totalplay.net
+Date: 01/05/2022 16:44:31
+Port Number: 37532
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.181.222
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-181-222.totalplay.net
+Date: 01/05/2022 16:44:50
+Port Number: 37544
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.181.222
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-181-222.totalplay.net
+Date: 01/05/2022 16:48:14
+Port Number: 37600
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.181.222
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-181-222.totalplay.net
+Date: 01/05/2022 16:48:16
+Port Number: 37594
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.181.222
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-181-222.totalplay.net
+Date: 01/05/2022 23:01:30
+Port Number: 27588
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 187.189.68.236
+ISP Web: 24.105.75.211
+Hos Local: fixed-187-189-68-236.totalplay.net
+Date: 06/05/2022 20:14:27
+Port Number: 37668
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-US,es-419;q=0.9,es;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
+IP Address Local: 85.86.165.3
+ISP Web: 24.105.75.211
+Hos Local: 3.85-86-165.dynamic.clientes.euskaltel.es
+Date: 12/05/2022 18:52:37
+Port Number: 39544
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+HTTP Referer: android-app://org.telegram.messenger/
+WIRELESS Mac: 
+******************************************
+IP Address Local: 192.168.1.10
+ISP Web: 108.161.161.47
+Hos Local: DESKTOP-H31O1NQ
+Date: 28/05/2022 01:24:52
+Port Number: 60826
+Operating System: 
+Navegador Acepta: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Language: es-ES,es;q=0.9,pl;q=0.8
+CharSet: 
+Interface GATEWAY CGI: CGI/1.1
+informacion del protocolo: HTTP/1.1
+Acceso Such: GET
+Cell Profile: 
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+HTTP Referer: 
+WIRELESS Mac: 
+******************************************
